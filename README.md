@@ -35,6 +35,12 @@ Jupyter Notebook
 ├── tamil.ipynb 
 
 ├── sample_images
+    
+├── uyir_cnn_model.h5
+
+├── uyir_label_map.json
+
+├── dateset
 
 └── README.md
 
