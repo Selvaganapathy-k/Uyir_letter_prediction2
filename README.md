@@ -32,9 +32,7 @@ Jupyter Notebook
 
 📂 Project Structure tamil-letter-processing
 
-├── tamil.ipynb 
-
-├── sample_images
+├── Task.ipynb 
     
 ├── uyir_cnn_model.h5
 
